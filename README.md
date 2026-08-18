@@ -27,7 +27,7 @@ Criamos tecnologia para escalar negócios digitais com eficiência, performance 
 ## 👨‍💻 Fundador & CEO
 
 **Luís Lutchi**  
-Engenheiro de sistemas digitais, especializado em automação, bots e plataformas de monetização.
+Engenheiro de sistemas digitais, especializado em automação, engenharia de prompt, IA, Design UIX de sistemas, bots e plataformas de monetização.
 
 ---
 
