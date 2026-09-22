@@ -59,9 +59,8 @@ A empresa desenvolve sistemas próprios de automação e monetização digital c
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luislutchii&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=luislutchii&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luislutchii&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=luislutchii&theme=tokyonight"/>
 </p>
 
 ---
@@ -72,19 +71,11 @@ A empresa desenvolve sistemas próprios de automação e monetização digital c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luislutchii&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-> 🔐 As contribuições realizadas em repositórios privados podem aparecer no perfil do GitHub de forma agregada e anónima, sem revelar os nomes dos repositórios, código ou conteúdo privado.
-
----
-
-## 🔒 Privacidade das Contribuições
-
-As atividades de desenvolvimento da **Lutchi Enterprise Systems** podem ocorrer tanto em repositórios públicos como privados.
-
-As contribuições privadas são contabilizadas nas estatísticas do perfil quando a opção de **contribuições privadas** está ativada no GitHub.
-
-**Os repositórios privados continuam privados.**
-
-Nenhum código, nome de repositório ou conteúdo confidencial é exposto através do gráfico de contribuições.
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luislutchii&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=luislutchii&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
