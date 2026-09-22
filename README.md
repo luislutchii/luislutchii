@@ -86,7 +86,7 @@ A empresa desenvolve sistemas próprios de automação e monetização digital c
     <img src="https://img.shields.io/badge/Email-Contacto-0a66ff?style=for-the-badge&logo=gmail">
   </a>
 
-  <a href="mailto:loja@lutchicash.online">
+  <a href="mailto:les.angola@outlook.com">
     <img src="https://img.shields.io/badge/Suporte-Plataforma-000000?style=for-the-badge&logo=gmail">
   </a>
 
