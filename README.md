@@ -105,7 +105,7 @@ Marketplace de produtos digitais concebido para aproximar criadores e compradore
 
 <img src="./contrib-heatmap.svg" width="860" alt="Mapa de contribuições do GitHub"/>
 
-<sub>Atualização automática através do GitHub Actions, às 06:17 UTC. Dados públicos do GitHub.</sub>
+<sub>Gráfico de Registro das minhas atividades.</sub>
 
 </div>
 
