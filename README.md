@@ -1,116 +1,47 @@
-<!-- BANNER -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a66ff&height=200&section=header&text=Lutchi%20Enterprise%20Systems&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h3><code>luis@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Calendário de contribuições GitHub"/>
 
-<h1 align="center">🏢 Lutchi Enterprise Systems</h1>
-
-<p align="center">
-  💻 Engenharia de Software • 🤖 Automação Inteligente • 💰 Sistemas de Monetização Digital
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ATIVO-0a66ff?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/luislutchii?label=Seguidores&style=social">
-</p>
+<h3><code>luis@github ~ $ whoami</code></h3>
+<table><tr>
+<td valign="top" width="42%"><img src="./lutchi-ascii.svg" width="100%" alt="Retrato ASCII animado de Luís Lutchi"/></td>
+<td valign="top" width="58%"><img src="./info-card.svg" width="100%" alt="Cartão de perfil de Luís Lutchi"/></td>
+</tr></table>
+<p><strong>Software · IA · Automação · Produtos Digitais</strong></p>
+<a href="https://github.com/luislutchii"><img src="https://img.shields.io/badge/GitHub-luislutchii-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:luislutchi5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
 ---
 
-## 🧠 Sobre a Empresa
+### `01` — Sobre mim
+Sou **Luís Lutchi**, criador digital, programador e fundador e CEO da **LES — Lutchi Enterprise Systems**. Construo soluções digitais que combinam desenvolvimento de software, inteligência artificial, automação e monetização.
 
-A **Lutchi Enterprise Systems** é uma empresa focada no desenvolvimento de soluções digitais avançadas, combinando automação, inteligência de sistemas e estratégias de monetização.
+### `02` — O que construo
+- **IA:** ferramentas e fluxos de trabalho assistidos por inteligência artificial.
+- **Automação:** bots e integrações para Telegram, WhatsApp e Discord.
+- **Desenvolvimento web:** plataformas, dashboards e APIs.
+- **Fintech:** soluções de pagamentos e produtos digitais.
+- **Mobile:** aplicações e ferramentas para dispositivos móveis.
+- **Design digital:** interfaces e experiências de utilizador.
 
-Criamos tecnologia para escalar negócios digitais com eficiência, performance e segurança.
+### `03` — Projetos
+| Projeto | Foco |
+|---|---|
+| **CodeLES** | IA para desenvolvimento através da linha de comandos. |
+| **VibePay** | Gateway de pagamentos para negócios digitais. |
+| **LutchiCash** | Marketplace de produtos digitais e monetização. |
 
----
+### `04` — Stack & ferramentas
+`Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Node.js` · `Git` · `GitHub` · `Firebase` · `REST APIs` · `Android`
 
-## 👨‍💻 Fundador & CEO
+### `05` — Atividade
+O mapa acima é gerado a partir do calendário de contribuições do GitHub e atualizado por GitHub Actions. Os dados refletem o que o GitHub disponibiliza publicamente.
 
-**Luís Lutchi**
+### `06` — Contacto
+- **GitHub:** [@luislutchii](https://github.com/luislutchii)
+- **Email:** [luislutchi5@gmail.com](mailto:luislutchi5@gmail.com)
+- **LES:** [loja@lutchicash.online](mailto:loja@lutchicash.online)
 
-Engenheiro de sistemas digitais, especializado em automação, engenharia de prompt, IA, Design UIX de sistemas, bots e plataformas de monetização.
-
----
-
-## 🚀 O que desenvolvemos
-
-* 🤖 Bots inteligentes (Telegram • WhatsApp • Discord)
-* 📊 Sistemas de sinais automatizados em tempo real
-* 🌐 Plataformas web escaláveis
-* 💳 Integração de sistemas de pagamento
-* 📱 Aplicações Android (Sketchware / Native)
-* 🎨 Design digital e identidade visual
-* ⚙️ APIs e automações personalizadas
-
----
-
-## 🧩 Plataforma Proprietária
-
-A empresa desenvolve sistemas próprios de automação e monetização digital com foco em:
-
-* Alta performance
-* Escalabilidade
-* Integração multi-plataforma
-* Experiência automatizada para utilizadores
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luislutchii&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=luislutchii&theme=tokyonight"/>
-</p>
-
----
-
-## 🧬 Atividade & Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luislutchii&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luislutchii&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=luislutchii&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌍 Contacto Oficial
-
-<p align="center">
-  <a href="mailto:luislutchi5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-0a66ff?style=for-the-badge&logo=gmail">
-  </a>
-
-  <a href="mailto:les.angola@outlook.com">
-    <img src="https://img.shields.io/badge/Suporte-Plataforma-000000?style=for-the-badge&logo=gmail">
-  </a>
-
-  <a href="https://wa.me/244954337951">
-    <img src="https://img.shields.io/badge/WhatsApp-Contacto%20Rápido-0a66ff?style=for-the-badge&logo=whatsapp">
-  </a>
-</p>
-
----
-
-## ⚠️ Aviso Legal
-
-Todos os sistemas são desenvolvidos para fins tecnológicos e educacionais.
-
-Resultados podem variar conforme o uso e ambiente.
-
----
-
-## 🧬 Filosofia
-
-> Tecnologia + Automação + Estratégia = Escalabilidade Digital
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66ff,100:000000&height=120&section=footer"/>
-</p>
+<div align="center"><sub><code>build → automate → iterate → scale</code></sub><br/><sub>Luís Lutchi · LES — Lutchi Enterprise Systems</sub></div>
