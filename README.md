@@ -1,6 +1,6 @@
  <div align="center">
 
-# `luis@github ~ $ whoami`
+# `lutchi@github ~ $ whoami`
 
 <img src="./lutchi-ascii.svg" width="650" alt="Retrato ASCII de Luís Lutchi"/>
 
@@ -101,7 +101,7 @@ Marketplace de produtos digitais concebido para aproximar criadores e compradore
 
 <div align="center">
 
-### `luis@github ~ $ ./contributions.sh`
+### `lutchi@github ~ $ ./contributions.sh`
 
 <img src="./contrib-heatmap.svg" width="860" alt="Mapa de contribuições do GitHub"/>
 
