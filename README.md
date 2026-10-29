@@ -95,7 +95,7 @@ Marketplace de produtos digitais concebido para aproximar criadores e compradore
 
 ---
 
-## `06. CONTACTO PROFISSIONAL`
+## `05. CONTACTO PROFISSIONAL`
 
 | Canal | Contacto |
 |---|---|
