@@ -2,8 +2,6 @@
 
 # `lutchi@github ~ $ whoami`
 
-<img src="./lutchi-ascii.svg" width="650" alt="Retrato ASCII de Luís Lutchi"/>
-
 ### Luís Lutchi
 
 **Desenvolvimento de Software · Inteligência Artificial · Automação · Produtos Digitais**
@@ -60,7 +58,7 @@ Ferramenta de inteligência artificial da LES, executada através da linha de co
 ### VibePay
 Projeto de infraestrutura de pagamentos digitais concebido para facilitar a integração de soluções de pagamento em negócios e plataformas digitais.
 
-**Foco:** Integrações · Webhooks · Processamento de pagamentos
+**Foco:** Integrações · Webhooks · Processamento de pagamentos em cripto
 
 ### LutchiCash
 Marketplace de produtos digitais concebido para aproximar criadores e compradores através de uma plataforma de comercialização de conteúdos e produtos digitais.
@@ -97,29 +95,15 @@ Marketplace de produtos digitais concebido para aproximar criadores e compradore
 
 ---
 
-## `05. ATIVIDADE NO GITHUB`
-
-<div align="center">
-
-### `lutchi@github ~ $ ./contributions.sh`
-
-<img src="./contrib-heatmap.svg" width="860" alt="Mapa de contribuições do GitHub"/>
-
-<sub>Gráfico de Registro das minhas atividades.</sub>
-
-</div>
-
----
-
 ## `06. CONTACTO PROFISSIONAL`
 
 | Canal | Contacto |
 |---|---|
 | **GitHub** | [github.com/luislutchii](https://github.com/luislutchii) |
 | **Email pessoal** | [luislutchi5@gmail.com](mailto:luislutchi5@gmail.com) |
-| **LES — Contacto empresarial** | [loja@lutchicash.online](mailto:loja@lutchicash.online) |
+| **LES — Contacto empresarial** | [les.angola@outlook.com](mailto:les.angola@outlook.com) |
 | **Website da LES** | [lutchi.vercel.app](https://lutchi.vercel.app) |
-| **WhatsApp** | [+244 954 337 951](https://wa.me/244954337951) |
+| **WhatsApp da LES** | [+244 954 337 951](https://wa.me/244954337951) |
 
 ---
 
