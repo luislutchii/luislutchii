@@ -1,43 +1,8 @@
 {
   "username": "luislutchii",
-  "fetched_at": "2026-11-21T14:35:28.278876+00:00",
+  "fetched_at": "2026-11-22T14:29:43.213245+00:00",
   "total_contributions": 0,
   "days": [
-    {
-      "date": "2025-11-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "level": 0,
@@ -1855,6 +1820,11 @@
     },
     {
       "date": "2026-11-21",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
       "level": 0,
       "count": 0
     }
